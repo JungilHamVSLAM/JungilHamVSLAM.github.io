@@ -2,14 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Aerospace Engineering
-
+subtitle: Ph.D. Candidate in Mechanical and Robotics Engineering
 profile:
   align: right
   image: prof_pic.gif
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Urbana, Illinois. 61801</p>
+    <p>Mountain View, California. 94035</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
