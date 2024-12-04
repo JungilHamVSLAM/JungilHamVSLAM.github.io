@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Illinois team wins first prize in OpenCV AI competition](https://aerospace.illinois.edu/news/57521)
+[Jungil starts a research internship at NASA Ames Research Center](https://www.nasa.gov/intelligent-systems-division/autonomous-systems-and-robotics/intelligent-robotics-group/)
