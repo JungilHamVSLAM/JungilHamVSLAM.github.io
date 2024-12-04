@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-[Dinkel among 40 participants in MIT Aero/Astro Future Leaders in Aerospace Symposium](https://aeroastro.mit.edu/future-leaders-in-aerospace/schedule-at-a-glance/)
+[Jungi receives GIST 2024 International Research Experience Fellowship](https://me.gist.ac.kr/prog/bbsArticle/BBSMSTR_000000000334/B000000083361Xj3uX0i/view.do/)
+ 
