@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Candidate in Mechanical and Robotics Engineering
 profile:
   align: right
-  image: prof_pic.gif
+  image: jungil_prof.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mountain View, California. 94035</p>
