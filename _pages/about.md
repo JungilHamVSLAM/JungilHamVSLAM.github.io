@@ -8,7 +8,7 @@ profile:
   image: jungil_prof.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Mountain View, California. 94035</p>
+    <p>Gwangju, South Korea. 61005</p>
 
 news: true  # includes a list of news items
 publications: true
