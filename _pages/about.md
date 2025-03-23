@@ -17,6 +17,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Jungil Ham is pursuing the Ph.D. in Mechanical and Robotics Engineering at the Gwangju Institute of Science and Technology (GIST), where he researches localization and mapping of space robots as a former intern and close collaborator with the NASA Ames Research Center Intelligent Robotics Group. He previously completed the M.S. in Mechanical and Robotics Engineering at the Gwangju Institute of Science and Technology (GIST), and the B.S. and B.A. in the Department of Electronics and Information Engineering and the School of Robotics at Kwangwoon University, respectively.
-
+Jungil Ham is pursuing the Ph.D. in Mechanical and Robotics Engineering at the Gwangju Institute of Science and Technology (GIST), where he researches localization and mapping of space robots as a former intern and close collaborator with the NASA Ames Research Center Intelligent Robotics Group. He previously completed the M.S. in Mechanical and Robotics Engineering at GIST, and received a B.S. in Electronics and Information Engineering from Kwangwoon University.
 
